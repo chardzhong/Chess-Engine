@@ -1,5 +1,5 @@
 Chess Engine
--My first personal project, learned alot about scalability, oop, and the importance of comments. 
+-My first personal project, learned about scalability, oop, and the importance of comments. 
 
 UI - to be implemented
 Board representation - boards are represented as 'bit boards' where fourteen 8 byte long variables represents each type of piece for both black and white.
